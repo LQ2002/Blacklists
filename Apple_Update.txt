@@ -1,42 +1,33 @@
-# Title: SugusGuard Apple-Update
-# Description: Blacklist to block Apple updates for AdGuard Home / AdGuard Pro App
-# This Blacklist can interrupt some services and/or some website functionalities you
-# may use or like to use. Take care that you've your personal Whitelist in place.
-# List-URL: https://raw.githubusercontent.com/SugusGuard/Blacklists/main/Apple-Update
-# Date: 2023-03-07
-#
-## APPLE UPDATES & UPDATE-CHECK IOS, IPADOS, TVOS, MACOS
-#
-0.0.0.0 appldnld.apple.com 
-0.0.0.0 appldnld.apple.com.akadns.net 
-0.0.0.0 appldnld-lb.apple.com.akadns.net 
-0.0.0.0 appldnld.g.aaplimg.com 
-0.0.0.0 mesu.apple.com 
-0.0.0.0 mesu-cdn.apple.com.akadns.net 
-0.0.0.0 mesu-cdn.origin-apple.com.akadns.net 
-0.0.0.0 mesu.apple.com.edgekey.net 
-0.0.0.0 mesu.g.aaplimg.com 
-0.0.0.0 gdmf.apple.com 
-0.0.0.0 gdmf.apple.com.akadns.net 
-0.0.0.0 ocsp.apple.com 
-0.0.0.0 ocsp-lb.apple.com.akadns.net 
-0.0.0.0 ocsp-a.g.aaplimg.com 
-0.0.0.0 ocsp2.apple.com 
-0.0.0.0 ocsp2-lb.apple.com.akadns.net 
-0.0.0.0 ocsp2.g.aaplimg.com 
-0.0.0.0 updates-http.cdn-apple.com 
-0.0.0.0 gg.apple.com 
-0.0.0.0 gs.apple.com 
-0.0.0.0 ns.itunes.apple.com 
-0.0.0.0 configuration.apple.com.akadns.net 
-0.0.0.0 configuration.apple.com.edgekey.net 
-0.0.0.0 updates.cdn-apple.com 
-0.0.0.0 world-gen.g.aaplimg.com 
-0.0.0.0 xp.apple.com 
-0.0.0.0 gnf-mdn.apple.com 
-0.0.0.0 configuration.apple.com 
-0.0.0.0 gnf-mr.apple.com 
-0.0.0.0 ig.apple.com 
-0.0.0.0 oscdn.apple.com 
-0.0.0.0 osrecovery.apple.com 
-0.0.0.0 skl.apple.com 
+appldnld.apple.com
+appldnld.apple.com.akadns.net
+appldnld-lb.apple.com.akadns.net
+appldnld.g.aaplimg.com
+mesu.apple.com
+mesu-cdn.apple.com.akadns.net
+mesu-cdn.origin-apple.com.akadns.net
+mesu.apple.com.edgekey.net
+mesu.g.aaplimg.com
+gdmf.apple.com
+gdmf.apple.com.akadns.net
+ocsp.apple.com
+ocsp-lb.apple.com.akadns.net
+ocsp-a.g.aaplimg.com
+ocsp2.apple.com
+ocsp2-lb.apple.com.akadns.net
+ocsp2.g.aaplimg.com
+updates-http.cdn-apple.com
+gg.apple.com
+gs.apple.com
+ns.itunes.apple.com
+configuration.apple.com.akadns.net
+configuration.apple.com.edgekey.net
+updates.cdn-apple.com
+world-gen.g.aaplimg.com
+xp.apple.com
+gnf-mdn.apple.com
+configuration.apple.com
+gnf-mr.apple.com
+ig.apple.com
+oscdn.apple.com
+osrecovery.apple.com
+skl.apple.com
